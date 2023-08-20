@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitahluwalia7895&label=Profile%20views&color=0e75b6&style=flat" alt="harshitahluwalia7895" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshitahluwalia7895" alt="harshitahluwalia7895" /></a> </p>
-
 - 🔭 I’m currently working on **Growing Analytics Vidhya's Social Media Channels**
 
 - 💬 Ask me about **Growth Strategies, Product Growth, Building Strategies, Python, Data Visualization, Data Science**
